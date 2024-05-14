@@ -1,3 +1,8 @@
+<!-- Thanks to
+https://profile-readme-generator.com/
+https://github.com/antonkomarev/github-profile-views-counter
+-->
+
 ### Hi 👋! 
 
 I am Orangejuice, a full stack software engineer
