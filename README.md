@@ -3,9 +3,9 @@ https://profile-readme-generator.com/
 https://github.com/antonkomarev/github-profile-views-counter
 -->
 
-### Hi 👋! 
+### Hi! 👋
 
-I am Orangejuice, a full stack software engineer
+I am Orangejuice, a full stack software engineer.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=orangejuice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=false" height="150" alt="stats graph"  />
