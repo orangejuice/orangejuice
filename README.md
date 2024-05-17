@@ -8,9 +8,22 @@ https://github.com/antonkomarev/github-profile-views-counter
 I am Orangejuice, a full stack software engineer.
 
 <div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=orangejuice&show_icons=true&rank_icon=percentile&theme=dark" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=orangejuice&show_icons=true&rank_icon=percentile" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=orangejuice&show_icons=true&rank_icon=percentile" height="150"/>
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=orangejuice&layout=compact&card_width=320&theme=dark" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=orangejuice&layout=compact&card_width=320" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orangejuice&layout=compact&card_width=320" height="150"/>
+  </picture>
+</div>
+
+<!--div align="center>
   <img src="https://github-readme-stats.vercel.app/api?username=orangejuice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orangejuice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div-->
 
 ###
 
