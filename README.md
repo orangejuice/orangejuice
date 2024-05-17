@@ -47,8 +47,6 @@ I am Orangejuice, a full stack software engineer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orangejuice/orangejuice/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/orangejuice/orangejuice/output/snake.svg" />
