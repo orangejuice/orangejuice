@@ -59,4 +59,4 @@ I am Orangejuice, a full stack software engineer.
 
 ![](https://komarev.com/ghpvc/?username=orangejuice&abbreviated=true)
 
-<sub>Tips: Light/Dark theme supported<sub>
+<sub>💡 Light/Dark theme supported<sub>
