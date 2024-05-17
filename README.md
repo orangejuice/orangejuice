@@ -2,6 +2,7 @@
 https://profile-readme-generator.com/
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/antonkomarev/github-profile-views-counter
+https://github.com/Platane/snk
 -->
 
 ### Hi! 👋
@@ -57,3 +58,5 @@ I am Orangejuice, a full stack software engineer.
 ###
 
 ![](https://komarev.com/ghpvc/?username=orangejuice&abbreviated=true)
+
+<sub>Tips: Light/Dark theme supported<sub>
