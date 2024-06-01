@@ -3,6 +3,7 @@ https://profile-readme-generator.com/
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/antonkomarev/github-profile-views-counter
 https://github.com/Platane/snk
+https://github.com/devicons/devicon/tree/master/icons
 -->
 
 ### Hi! 👋
@@ -45,6 +46,8 @@ I am Orangejuice, a full stack software engineer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
 </div>
 
 <picture>
